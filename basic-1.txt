@@ -1,0 +1,44 @@
+1. Melihat IP yang aktif, beserta MAC addres.
+perintahnya:
+#netdiscover
+
+Hasilnya akan menapilkan IP dan MAC yang sedang aktif, kemudian pilih salah
+satu ip 
+
+2. Melihat service apa saja yg hidup pada mesin dengan IP beserta portnya.
+perintahnya:
+#nmap 192.168.1.10 -p- -Pn
+
+Perhatikan service dan port berapa  saja yang aktif pada mesin tersebut
+
+3. Buka browser
+ketikan:
+
+http://nomor-ip
+
+4.Melihat direktori apa daja yang ada pada url tersebut
+perintahnya
+
+#dirb http://ip-mesin-tersebut
+
+Perhatikan hasil dari scanning dari perintah tersebut.
+
+5. Coba akses salah-satu direktori yang di tampilkan dari hasil sacan no 4
+-buka browse
+http://ip-mesin-tersebut/data
+
+maka kita bisa mengetahui direktori dan file yang ada pada mesin tersebut.
+
+
+6. Cek direktori dan file sharing yang ada pada mesin tersebut
+perintahnya:
+
+#enum4linux ip-mesin-tersebut
+
+Perhatikan hasil file sharingnya
+pada bagian ini juga menampilkan user ataupun passwordnya.
+
+
+
+
+
