@@ -1,0 +1,37 @@
+dnsenum VERSION:1.2.4
+[1;34m
+-----   facebook.com   -----
+[0m[1;31m
+
+Host's addresses:
+__________________
+
+[0mfacebook.com.                            267      IN    A        157.240.25.35
+[1;31m
+
+Name Servers:
+______________
+
+[0mb.ns.facebook.com.                       116781   IN    A        69.171.255.12
+a.ns.facebook.com.                       116781   IN    A        69.171.239.12
+[1;31m
+
+Mail (MX) Servers:
+___________________
+
+[0msmtpin.vvv.facebook.com.                 227      IN    A        69.171.251.251
+[1;31m
+
+Trying Zone Transfers and getting Bind Versions:
+_________________________________________________
+
+[0m
+Trying Zone Transfer for facebook.com on b.ns.facebook.com ... 
+
+Trying Zone Transfer for facebook.com on a.ns.facebook.com ... 
+[1;31m
+
+Brute forcing with -r:
+_______________________
+
+[0m
